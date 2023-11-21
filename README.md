@@ -1,5 +1,3 @@
 # Analysis
 
-<video width="320" height="240" controls>
-  <source src="AnalysisDemo.mp4" type="video/mp4">
-</video>
+https://github.com/2kha/Analysis/blob/main/AnalysisDemo.mp4
